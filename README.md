@@ -28,7 +28,7 @@ A continuación se listan algunas de las pantallas del proyecto:
    ![Pantalla de Inicio](./screenshots/6_homepage.png)
 
 4. **Pantalla My Order**  
-   ![Listado de Productos](./screenshots/9_my_order.html.png)
+   ![Pantalla My Order](./screenshots/9_my_order.html.png)
 
 5. **Pantalla de Detalle del Producto**  
    ![Detalle del Producto](./screenshots/11_product_detail.png)
