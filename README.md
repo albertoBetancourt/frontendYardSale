@@ -16,7 +16,7 @@ Este repositorio contiene el diseño y la maquetación en HTML y CSS de las pant
 
 ## Screenshots
 
-A continuación se listan las pantallas más relevantes del proyecto:
+A continuación se listan algunas de las pantallas del proyecto:
 
 1. **Pantalla de Cambio de Contraseña (Desktop)**  
    ![Pantalla de Cambio de Contraseña Desktop](./screenshots/1_password.png)
